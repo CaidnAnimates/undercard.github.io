@@ -1,0 +1,38 @@
+nav {
+	padding: 15;
+	font-family: Verdana;
+	font-style: bold;
+	color: #FFFFFF;
+	}
+	
+h1 {
+	font-family: Verdana;
+	color: #FFFFFF;
+}
+
+h4 {
+	font-family: Verdana;
+	font-style: none;
+	color: #FFFFFF;
+}
+
+ul {
+	list-style: none;
+	color: #FFFFFF;
+}
+
+div {
+	background: #404040;
+	width: 800px;
+	height: 1000px;
+	margin: auto;
+	padding: 5;
+}
+
+a:link {
+	color: red;	
+}
+
+a:visited {
+	color: red;
+}
