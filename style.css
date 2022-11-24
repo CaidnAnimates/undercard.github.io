@@ -53,7 +53,7 @@ div {
 #gamebox {
 	background: #404040;
 	width: 800px;
-	height: 1300px;
+	height: 1500px;
 	margin: auto;
 	padding: 5px;
 	border-radius: 15px;
@@ -62,6 +62,11 @@ div {
 
 embed {
 	margin: auto;
+}
+
+label {
+	font-family: Verdana;
+	color: white;
 }
 
 a:link {
