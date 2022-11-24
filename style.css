@@ -3,6 +3,7 @@ nav {
 	font-family: Verdana;
 	font-style: bold;
 	color: #FFFFFF;
+	margin: auto;
 	}
 	
 h1 {
@@ -31,7 +32,13 @@ div {
 	width: 800px;
 	height: 900px;
 	margin: auto;
-	padding: 5;
+	padding: 5px;
+	border-radius: 15px;
+	box-shadow: 10px 10px 5px black;
+}
+
+embed {
+	margin: auto;
 }
 
 a:link {
