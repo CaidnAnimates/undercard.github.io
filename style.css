@@ -65,9 +65,11 @@ embed {
 }
 
 a:link {
-	color: White;	
+	color: White;
+	font-family: Verdana;	
 }
 
 a:visited {
 	color: white;
+	font-family: Verdana;
 }
