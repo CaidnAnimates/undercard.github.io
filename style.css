@@ -98,6 +98,10 @@ footer {
 	padding: 15px;
 }
 
+body {
+	min-height: 100vh;
+}
+
 #socials {
 	font-size: 120%;
 }
