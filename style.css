@@ -6,7 +6,14 @@ nav {
 	border-radius: 15px;
 	word-spacing: 50px;
 	color: white;
+	margin-left: 5px;
+	margin-right: 5px;
 	}
+	
+p {
+	font-family: Verdana;
+	color: #FFFFFF;
+}
 	
 h1 {
 	font-family: Verdana;
@@ -71,12 +78,18 @@ label {
 
 a:link {
 	color: White;
-	font-family: Verdana;	
+	font-family: Verdana;
+	text-decoration: none;	
 }
 
 a:visited {
 	color: white;
 	font-family: Verdana;
+	text-decoration: none;
+}
+
+a:hover {
+	text-shadow: 2px 2px 5px red;
 }
 
 footer {
